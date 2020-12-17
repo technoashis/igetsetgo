@@ -6,5 +6,5 @@
 
 void mygreet()
 {
-    printf ("Hello Fellow");
+    printf ("Hello Fellow \n");
 }

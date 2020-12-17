@@ -11,5 +11,6 @@ gcc -c helloWorld.c -o out/helloworld.o #to generate helloworld object file.
 
 int main()
 {
-    printf ("Hello World");
+    printf ("Hello World\n");
+    return 0;
 }

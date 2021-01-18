@@ -6,7 +6,7 @@ class Animal {
 
    public:
     void eat() {
-        cout << "I can eat!" << endl;
+        cout << "I can eat! " << endl;
     }
 
     void sleep() {

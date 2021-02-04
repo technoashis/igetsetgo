@@ -18,10 +18,7 @@ void functionEvenOdd(int n)
 
 int main()
 {
-    voidFunction(); // Function With no aruguments and returns void
-
-    int n = intFunction(); // Function with no arguments and returns int
-    printf ("The number of charecters Printed %d \n", n);
+    voidFunction();int n = intFunction();printf ("The number of charecters Printed %d \n", n);
     
     functionEvenOdd (10); // Function with arguments
     return 0;
